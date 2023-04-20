@@ -12,15 +12,7 @@ const Table = () => {
           <th>Designation</th>
         </thead>
 
-        <tbody>
-          <tr>
-            <td>Smith</td>
-            <td>Male</td>
-            <td>34</td>
-            <td>Java</td>
-            <td>Software Engineer</td>
-          </tr>
-        </tbody>
+        <tbody>{/* Here add the users rows */}</tbody>
       </table>
     </div>
   );
