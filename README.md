@@ -17,3 +17,16 @@
 - Add some zebra styles to the table
 
 - Add some unit tests
+
+## JavaScript
+
+```javascript
+var x = 1;
+
+(function() {
+  alert(x); // ??
+  var x = 2;
+})();
+
+alert(x); // ??
+```
